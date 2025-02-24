@@ -1,7 +1,11 @@
 # 🚀 ROCKET
 ## Reverse Obstacle Collision Knowledge for Enhanced Trajectories
 
+### Environment and Path Planning Visualization
 ![Environment Visualization](environemt.png)
+
+### Path Planning Animation
+![Path Planning Animation](path_animation.gif)
 
 ROCKET is an innovative path planning system that uses inverse collision sampling to find safe and efficient trajectories in complex environments. Instead of directly searching for safe paths, ROCKET first identifies paths that would collide with obstacles and then uses this knowledge to find optimal trajectories in the remaining safe space.
 
