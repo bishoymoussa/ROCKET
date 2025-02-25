@@ -44,7 +44,7 @@ https://github.com/yourusername/ROCKET/assets/path_animation.mp4
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ROCKET.git
+git clone https://github.com/bishoymoussa/ROCKET.git
 cd ROCKET
 ```
 
